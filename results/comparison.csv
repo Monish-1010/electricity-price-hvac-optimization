@@ -1,0 +1,2 @@
+scenario,solver,baseline_cost_eur,optimized_cost_eur,saving_eur,saving_pct,baseline_energy_kwh,optimized_energy_kwh,baseline_peak_kw,optimized_peak_kw
+synthetic_24h,pyomo-highs,67.04,64.03175,3.00825,4.4872,480.0,480.0,30.0,37.5
